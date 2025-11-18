@@ -6,8 +6,6 @@
 
 [Download Latest Release](https://github.com/Aryan-git-byte/CursorSnap/releases) • [Report Bug](https://github.com/Aryan-git-byte/CursorSnap/issues) • [Request Feature](https://github.com/Aryan-git-byte/CursorSnap/issues)
 
-![CursorSnap Demo](https://via.placeholder.com/600x300/0078ff/ffffff?text=CursorSnap+Demo)
-
 ---
 
 ## ✨ Features
@@ -149,4 +147,5 @@ Having issues? Got questions?
 **Made with ❤️ by [Aryan](https://github.com/Aryan-git-byte)**
 
 If you find this tool helpful, consider giving it a ⭐!
+
 
