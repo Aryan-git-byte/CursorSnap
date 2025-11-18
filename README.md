@@ -122,25 +122,6 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-## 📋 Roadmap
-
-- [ ] Multiple save slots
-- [ ] Custom hotkey configuration
-- [ ] Cursor position history
-- [ ] Auto-save on interval
-- [ ] Cross-platform support (Linux, macOS)
-- [ ] Position presets/bookmarks
-- [ ] Export/import saved positions
-
----
-
-## 🐛 Known Issues
-
-- Requires administrator privileges on some systems
-- Windows only (currently)
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -168,3 +149,4 @@ Having issues? Got questions?
 **Made with ❤️ by [Aryan](https://github.com/Aryan-git-byte)**
 
 If you find this tool helpful, consider giving it a ⭐!
+
